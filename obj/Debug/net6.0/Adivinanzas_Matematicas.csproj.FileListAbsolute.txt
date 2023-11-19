@@ -1,0 +1,14 @@
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.AssemblyInfoInputs.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.AssemblyInfo.cs
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\bin\Debug\net6.0\Adivinanzas_Matematicas.exe
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\bin\Debug\net6.0\Adivinanzas_Matematicas.deps.json
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\bin\Debug\net6.0\Adivinanzas_Matematicas.runtimeconfig.json
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\bin\Debug\net6.0\Adivinanzas_Matematicas.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\bin\Debug\net6.0\Adivinanzas_Matematicas.pdb
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\refint\Adivinanzas_Matematicas.dll
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.pdb
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\Adivinanzas_Matematicas.genruntimeconfig.cache
+C:\Users\joota\Desktop\JoseAgraz\CSharp\Pruebas\Adivinanzas_Matematicas\obj\Debug\net6.0\ref\Adivinanzas_Matematicas.dll
